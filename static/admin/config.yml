@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: tinni95/diverseblog
 
 media_folder: static/assets
 public_folder: assets
